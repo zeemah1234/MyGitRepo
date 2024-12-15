@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Desktop\StringMethod\obj\Debug\net8.0\StringMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\StringMethod\obj\Debug\net8.0\StringMethod.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\StringMethod\obj\Debug\net8.0\StringMethod.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\StringMethod\obj\Debug\net8.0\StringMethod.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\StringMethod\bin\Debug\net8.0\StringMethod.exe
+C:\Users\USER\OneDrive\Desktop\StringMethod\bin\Debug\net8.0\StringMethod.deps.json
+C:\Users\USER\OneDrive\Desktop\StringMethod\bin\Debug\net8.0\StringMethod.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\StringMethod\bin\Debug\net8.0\StringMethod.dll
+C:\Users\USER\OneDrive\Desktop\StringMethod\bin\Debug\net8.0\StringMethod.pdb
+C:\Users\USER\OneDrive\Desktop\StringMethod\obj\Debug\net8.0\StringMethod.dll
+C:\Users\USER\OneDrive\Desktop\StringMethod\obj\Debug\net8.0\refint\StringMethod.dll
+C:\Users\USER\OneDrive\Desktop\StringMethod\obj\Debug\net8.0\StringMethod.pdb
+C:\Users\USER\OneDrive\Desktop\StringMethod\obj\Debug\net8.0\StringMethod.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\StringMethod\obj\Debug\net8.0\ref\StringMethod.dll
